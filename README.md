@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Tyagi</h1>
-<h3 align="center">MERN Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">
+  MERN Stack Developer • Machine Learning Enthusiast • CS Undergraduate
+</h3>
 
 <p align="center">
   <a href="mailto:prashanttyagi7589@gmail.com">
@@ -17,48 +19,64 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science undergraduate** with strong interest in **full-stack MERN development and Machine Learning**.  
-I enjoy building **production-ready web applications** and integrating **ML models into real-world systems**.
+I’m a **Computer Science undergraduate** focused on building **production-ready MERN applications** and  
+integrating **Machine Learning models** into real-world web systems.
 
-- 🎓 B.Tech CSE student at **IKG Punjab Technical University**
-- 💻 Hands-on experience with **MERN stack & ML pipelines**
-- 🧠 Worked on **CNN/ANN models** for real-world use cases
-- 🔐 Built secure systems using **JWT & role-based access**
-- 📈 Solved **200+ DSA problems** (LeetCode & GFG)
-- 🎯 Actively seeking **Internship / Entry-Level roles**
+- 🎓 B.Tech (CSE), **IKG Punjab Technical University**
+- 💻 Strong in **MERN stack architecture**
+- 🤖 Experience with **CNN / ANN models** for classification & prediction
+- 🔐 Built secure apps using **JWT authentication & role-based access**
+- 📊 Hands-on with **ML pipelines, preprocessing & inference**
+- 🧠 Solved **200+ DSA problems** (LeetCode & GFG)
+- 🎯 Actively seeking **Internship / Entry-Level Software roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### 🌐 Web & Programming
+### 🌐 Frontend & Backend (MERN)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb" />
 </p>
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Data
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img height="40" src="https://keras.io/img/logo.png" />
 </p>
+
+- 🧠 **CNN** – image classification (plant disease, medical images)
+- 📈 **ANN** – regression & recommendation systems
+- 🔍 Tasks: **classification, regression, prediction**
+- 🧪 Libraries: NumPy, Pandas, Scikit-learn, Keras
+
+---
 
 ### 🧰 Tools & Core CS
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
+
+- 📚 Core CS: **DSA, OOP, DBMS, OS, CN**
+- 🚀 Deployment: **Netlify, Railway**
 
 ---
 
 ## 🌱 Currently Focused On
 
-- Building scalable **MERN applications**
-- Integrating **ML models into web platforms**
-- Improving **DSA, system fundamentals & clean code**
+- Designing **scalable MERN applications**
+- Improving **ML model performance & integration**
+- Strengthening **DSA and system fundamentals**
+- Writing cleaner, maintainable code
 
 ---
 
-📍 **Location:** Delhi, India  
-🗣️ **Languages:** English, Hindi  
+## 📍 Additional Info
+
+- 📌 **Location:** Delhi, India  
+- 🗣️ **Languages:** English, Hindi  
 
 ---
 
-⭐ *Learning by building. Growing through consistency.*
+⭐ *Build real things. Learn deeply. Improve consistently.*
