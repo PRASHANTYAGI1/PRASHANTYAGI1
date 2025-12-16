@@ -76,6 +76,15 @@ integrating **Machine Learning models** into real-world web systems.
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+---
+
 ## 🌱 Currently Focused On
 
 - Designing **scalable MERN applications**
