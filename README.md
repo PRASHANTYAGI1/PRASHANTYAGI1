@@ -19,59 +19,43 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science undergraduate** focused on building **production-ready MERN applications** and  
-integrating **Machine Learning models** into real-world web systems.
+Computer Science undergraduate focused on **building scalable MERN applications** and  
+**integrating Machine Learning models into real-world web systems**.
 
-- 🎓 B.Tech (CSE), **IKG Punjab Technical University**
-- 💻 Strong in **MERN stack architecture**
-- 🤖 Experience with **CNN / ANN models** for classification & prediction
-- 🔐 Built secure apps using **JWT authentication & role-based access**
-- 📊 Hands-on with **ML pipelines, preprocessing & inference**
-- 🧠 Solved **200+ DSA problems** (LeetCode & GFG)
-- 🎯 Actively seeking **Internship / Entry-Level Software roles**
+- 🎓 B.Tech CSE — IKG Punjab Technical University
+- 💻 MERN stack development (React, Node, Express, MongoDB)
+- 🤖 ML with CNN / ANN (classification & regression)
+- 🔐 JWT authentication & role-based systems
+- 🧠 Solved **200+ DSA problems**
+- 🎯 Open to **Internship / Entry-Level roles**
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
-### 🌐 Frontend & Backend (MERN)
+### 🌐 Web (MERN)
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb" />
 </p>
 
-### 🤖 Machine Learning & Data
+### 🤖 Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   <img height="40" src="https://keras.io/img/logo.png" />
 </p>
 
-- 🧠 **CNN** – image classification (plant disease, medical images)
-- 📈 **ANN** – regression & recommendation systems
-- 🔍 Tasks: **classification, regression, prediction**
-- 🧪 Libraries: NumPy, Pandas, Scikit-learn, Keras
-
 ---
 
-### 🧰 Tools & Core CS
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
-- 📚 Core CS: **DSA, OOP, DBMS, OS, CN**
-- 🚀 Deployment: **Netlify, Railway**
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,23 +66,9 @@ integrating **Machine Learning models** into real-world web systems.
   <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
 ---
 
-## 🌱 Currently Focused On
+📍 **Delhi, India**  
+🗣️ **English, Hindi**
 
-- Designing **scalable MERN applications**
-- Improving **ML model performance & integration**
-- Strengthening **DSA and system fundamentals**
-- Writing cleaner, maintainable code
-
----
-
-## 📍 Additional Info
-
-- 📌 **Location:** Delhi, India  
-- 🗣️ **Languages:** English, Hindi  
-
----
-
-⭐ *Build real things. Learn deeply. Improve consistently.*
+⭐ *Build real things. Improve consistently.*
