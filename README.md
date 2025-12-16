@@ -63,6 +63,19 @@ integrating **Machine Learning models** into real-world web systems.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🌱 Currently Focused On
 
 - Designing **scalable MERN applications**
