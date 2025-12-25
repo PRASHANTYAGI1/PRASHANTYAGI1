@@ -55,9 +55,9 @@ Hands-on with **CNN/ANN models**, secure APIs, and real-world deployments.
 ---
 
 ### 🐍 Contributions
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</p> -->
 
 ---
 
