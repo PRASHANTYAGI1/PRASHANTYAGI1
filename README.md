@@ -12,35 +12,34 @@
 
 ---
 
+### About
+Computer Science undergraduate focused on building **scalable MERN applications** and integrating  
+**machine learning–powered features**. Hands-on experience with **CNN/ANN models**, secure APIs,  
+and deployment-ready systems.
+
+---
+
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### Professional Summary
-- Scalable MERN stack applications  
-- ML/DL integration (CNN, ANN)  
-- REST APIs, authentication, deployment  
-- 200+ DSA problems solved  
-
-### Technical Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,tensorflow,git" />
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
 </p>
 
-Location: Delhi, India
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&hide_border=true" />
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&hide_border=true" />
+### Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 </td>
@@ -50,12 +49,17 @@ Location: Delhi, India
 
 ---
 
-### Contributions
-GitHub automatically displays the contribution graph below.  
-Maintaining consistent daily activity and meaningful commits.
+### Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,tensorflow,git" />
+</p>
 
 ---
 
 <p align="center">
-  Build. Learn. Improve.
+  Delhi, India · 200+ DSA Problems Solved
+</p>
+
+<p align="center">
+  <i>Build. Learn. Improve.</i>
 </p>
