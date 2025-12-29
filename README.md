@@ -1,65 +1,71 @@
-<h2 align="center">Hi 👋 I'm Prashant Tyagi</h2>
-<p align="center">
-  MERN Stack Developer • Machine Learning Enthusiast • CS Undergraduate
-</p>
+<h1 align="center">Hi, I'm Prashant Tyagi 👋</h1>
 
 <p align="center">
-  <a href="mailto:prashanttyagi7589@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/prashant-tyagi-bb3b0b271/">💼 LinkedIn</a> •
-  <a href="https://github.com/PRASHANTYAGI1">🐙 GitHub</a>
+  <b>MERN Stack Developer</b> · <b>Machine Learning Enthusiast</b> · <b>CS Undergraduate</b>
+</p>
+
+<p align="center">
+  <a href="mailto:prashanttyagi7589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashant-tyagi-bb3b0b271/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/PRASHANTYAGI1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About
-CS undergraduate focused on **scalable MERN apps** and **ML-powered features**.  
-Hands-on with **CNN/ANN models**, secure APIs, and real-world deployments.
-
----
-
-### 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,python,tensorflow,git" />
-</p>
-
----
-
-### 📊 Activity Snapshot
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
 
-**Stats**
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="50%" valign="top">
 
-</td>
-<td align="center" width="33%">
+### 🚀 Focus
+- Scalable **MERN applications**
+- **ML / DL models** (CNN, ANN)
+- Secure APIs & production deployment  
+- Problem solving (**200+ DSA**)
 
-**Languages**
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🛠 Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,tensorflow,git" />
+</p>
 
-</td>
-<td align="center" width="33%">
-
-**Streak**
-<br/>
-<img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true"/>
+📍 Delhi, India
 
 </td>
+
+<td width="50%" valign="top">
+
+### 📊 GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-### 🐍 Contributions
- <p align="center">
-  <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg"/>
-</p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-📍 Delhi, India • 🧠 200+ DSA problems  
-⭐ *Build → Learn → Improve*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PRASHANTYAGI1/PRASHANTYAGI1/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <i>Build → Learn → Improve</i>
+</p>
