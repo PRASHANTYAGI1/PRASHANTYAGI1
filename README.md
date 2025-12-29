@@ -26,8 +26,9 @@ and deployment-ready systems.
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1" />
 </p>
+
 
 
 </td>
