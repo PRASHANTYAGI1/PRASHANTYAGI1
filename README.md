@@ -26,12 +26,9 @@ and deployment-ready systems.
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PRASHANTYAGI1&hide_border=true" />
-</p>
 
 </td>
 
