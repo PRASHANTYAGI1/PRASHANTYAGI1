@@ -1,7 +1,7 @@
 <h1 align="center">👋 Prashant Tyagi</h1>
 
 <p align="center">
-  MERN Stack Developer · Machine Learning (CNN/ANN) · CS Undergraduate
+  MERN Stack Developer · Machine Learning - Deep Learning · CS Undergraduate
 </p>
 
 <p align="center">
