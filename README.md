@@ -100,7 +100,7 @@ Software Engineer with hands-on experience building and shipping enterprise-grad
 
 ---
 
-## Projects
+## Projects (Personal)
 
 ### Plantify — Smart Agriculture Platform
 > MERN Stack + TensorFlow + Python
