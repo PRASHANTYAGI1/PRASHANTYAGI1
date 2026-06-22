@@ -26,10 +26,10 @@
 
 Software Engineer with hands-on experience building and shipping enterprise-grade **CRM and HRM software** used by multiple businesses in India. Comfortable across the full stack — React frontends, Node.js/Express APIs, ASP.NET Core backends, and SQL Server/MongoDB databases. Built and integrated ML pipelines using Python and TensorFlow alongside production web applications.
 
-- Worked at **Sangtech Technology** — shipped CRM & HRM modules in production (.NET Core + React)
-- 🤖 Built ML-powered apps integrating CNN/ANN models with MERN stack
-- 💡 250+ DSA problems solved across platforms
-- 🎓 Final Year CS Student • Open to Software Engineering opportunities
+-  Worked at **Sangtech Technology** — shipped CRM & HRM modules in production (.NET Core + React)
+-  Built ML-powered apps integrating CNN/ANN models with MERN stack
+-  250+ DSA problems solved across platforms
+-  B.tech Cse • Open to Software Engineering opportunities
 
 ---
 
@@ -135,22 +135,17 @@ Software Engineer with hands-on experience building and shipping enterprise-grad
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRASHANTYAGI1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANTYAGI1&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANTYAGI1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 ---
 
 ## Achievements
 
 | | |
 |---|---|
-| 🧠 | 250+ DSA Problems Solved (C++ / Python) |
-| 🏭 | CRM & HRM software shipped to production for Indian businesses |
-| 📜 | Meta JavaScript Certification |
-| 📊 | Data Science Training — Vidhun Learnify |
-| 🚀 | Contributed to a B2B SaaS startup (Revyniqx) as a frontend engineer |
+|  | 250+ DSA Problems Solved (C++ / Python) |
+|  | CRM & HRM software shipped to production for Indian businesses |
+|  | Meta JavaScript Certification |
+|  | Data Science Training — Vidhun Learnify |
+
 
 ---
 
