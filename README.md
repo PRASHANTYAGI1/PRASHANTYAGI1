@@ -84,7 +84,7 @@ Software Engineer with hands-on experience building and shipping enterprise-grad
 
 ## Experience
 
-### Software Engineer Trainee — Sangtech Technology
+### Software Engineer Trainee — Sangtech Technology 
 > CRM & HRM Software (Window Based) • .NET Core • React • SQL Server • HTML • CSS • JS
 
 - Built and shipped **CRM modules** — lead tracking, customer management, sales pipeline — used by multiple businesses across India
@@ -93,13 +93,10 @@ Software Engineer with hands-on experience building and shipping enterprise-grad
 - Designed and optimized **SQL Server** schemas and stored procedures for enterprise data workflows
 - Worked within a cross-functional team shipping features end-to-end from database to UI
 
-### Frontend Engineer — Revyniqx *(Startup)*
+### Software Engineer - Present 
 > B2B SaaS Sales Analytics • React • Tailwind CSS • REST APIs 
 
-- Built dashboard pages — Overview, Super Admin, Platform Admin, Company Dashboard — with live API integration
-- Developed reusable KPI card components, data tables, search/filter, XLSX export, and department tab switching
-- Maintained a strict CSS token/design system (`--color-*`, `--rx-*`) with zero hardcoded values across the codebase
-- Handled complex git workflows including cherry-picks, conflict resolution across multiple feature branches
+- Building SAAS Applications.
 
 ---
 
