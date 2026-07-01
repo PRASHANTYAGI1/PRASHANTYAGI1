@@ -15,7 +15,7 @@
 Full-stack Software Engineer with production experience building **CRM & HRM desktop software** used by multiple businesses across India. Worked across .NET Core / ASP.NET backends, React frontends, SQL Server, and MongoDB. Also builds MERN stack and ML-integrated web applications.
 
 -  **Sangtech Technology** — CRM & HRM modules shipped in production (.NET Core · ASP.NET · SQL Server · React)
--  **SaaS Product (Current)** — Software engineering on a B2B sales analytics platform (React · Tailwind · REST APIs)
+-  **SaaS Product (Current)** — Software engineering In Noida.(MERN )
 -  ML apps with CNN/ANN models integrated into MERN stack (TensorFlow · Python)
 -  250+ DSA problems solved · B.Tech CSE · Open to SWE roles
 
