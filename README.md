@@ -99,7 +99,7 @@ Personal project — real-time progress tracker with modular Express architectur
 
 ## Certifications & Achievements
 
--  250+ DSA Problems Solved (C++ / Python) 
+-  270+ DSA Problems Solved (C++ / Python) 
 -  Meta JavaScript Certification
 -  Data Science Training — Vidhun Learnify
 
